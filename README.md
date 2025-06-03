@@ -18,7 +18,7 @@ A simple, beginner-friendly to-do list application built with C# that runs in th
 /ConsoleToDoApp
 │
 ├── Program.cs # Main application logic 
-├── TaskItem.cs # Task model/class 
+├── TodoItem.cs # Task model/class 
 
 Usage Example
 1. Add Task
